@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReductionAndTransform", "Re
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dynamic.Visitor.ViaDLR", "Dynamic.Visitor.ViaDLR\Dynamic.Visitor.ViaDLR.csproj", "{CAC60D0F-7C20-4EFA-8AD4-38F6F3AF961F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Acylic.Visitor", "Acylic.Visitor\Acylic.Visitor.csproj", "{BFF4EC5A-5C4C-4C42-821E-F4433B0E9324}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{CAC60D0F-7C20-4EFA-8AD4-38F6F3AF961F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CAC60D0F-7C20-4EFA-8AD4-38F6F3AF961F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CAC60D0F-7C20-4EFA-8AD4-38F6F3AF961F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFF4EC5A-5C4C-4C42-821E-F4433B0E9324}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFF4EC5A-5C4C-4C42-821E-F4433B0E9324}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFF4EC5A-5C4C-4C42-821E-F4433B0E9324}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFF4EC5A-5C4C-4C42-821E-F4433B0E9324}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
